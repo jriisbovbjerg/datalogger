@@ -1,0 +1,3 @@
+Devices;endpoint
+28A6FE4300C;pillesnegl
+
