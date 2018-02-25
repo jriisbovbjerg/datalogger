@@ -1,3 +1,5 @@
 Devices;endpoint
-28A6FE4300C;pillesnegl
-
+289E7BE403000002;rumtemp_vkst
+280A6FE40300000C;pillesnegl
+28DB85E403000098;stoker_ud
+284896E403000042;stoker_ind
